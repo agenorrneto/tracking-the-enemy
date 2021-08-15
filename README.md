@@ -15,20 +15,32 @@ That said, I aim to analyse Brazil genomic sequencing of SARS-CoV-2 scenario and
 Great part of data used in this work was extracted from GISAID (LINK HERE), plese explaind about this database. But genomic sequences (which has not been analyzed here) and metadata (which has been) are provided by a wide range of laboratories throughout Brazil. Besides, numbers of cases were xtracted from... The analysis - data cleaning, data handling, and plot building - was perfomed in Google Collab, using the Pyhton language.
 
 ## Results
-### Top 10 municipalities: an example to follow
+### Top 10 municipalities
 Half of the 10 municipalities that have the greatest number of genomes sequenced (Figure 1) are also among the most populated municipalities in Brazil (Rio de Janeiro, Manaus, São Paulo, Fortaleza and Belo Horizonte). Manaus is the capital of Amazonas state. The city has been hard hit by the pandemic, with a first peak of hospitalizations in late April, 2020 and a strong ressurgance in the beggining of 2021 [3], driven by the variant of concern (VOC) P.1. Genomic sequencing helped to understand how this may happened [4] . Aparecida de Goiânia is the second most populated municipality in the state of Goiás, center west region of Brazil. The city has its own strategy of genomic surveillance (when genomics is used to watch very closely the pathogen, because remember we are sequencing its nucleotides, and this information is used with other epidemiological data to support public health authorites' decisions). See [5] for another example of local initiative.
 
-![Figure 1](municipalities_purple.jpg)
+
+**Figure 1**
+![Figure 1](municipalities_purple_of.jpg)
+
+
+
+Figure 2 shows the contribution of these municipalities to the whole set of sequences (only genomes where the municipality is known), which corresponds to almost one third of the sequences.
+
+**Figure 2**
 
 ![Figure 2](municipalitiescontribution.jpg)
 
-### 2020 vs 2021
-Figure 2 presents the percentage of sequenced submitted to GISAID in 2020 and 2021 in relation to the total number of sequences (28,00... as of 13th, August). It is evident that Brazil has submitted more sequences in eight months of the current year than in the first year of the pandemic. One reason to this was the P.1 surgance. Also, scientists stress the mass reciept of laboratory raw materials needed for experiments.
 
+### 2020 vs 2021
+Figure 3 presents the percentage of sequenced submitted to GISAID in 2020 and 2021 in relation to the total number of sequences (28,00... as of 13th, August). It is evident that Brazil has submitted more sequences in eight months of the current year than in the first year of the pandemic. One reason to this was the P.1 surgance. Also, scientists stress the mass reciept of laboratory raw materials needed for experiments.
+
+**Figure 3**
 ![Figure 3](20vs21.jpg)
 
+
 ### State level
-Brazil has 26 states and one federal district. Five states have more than one thousand sequences deposited. Seventeen have a number of genomes sequenced between 100 and 999 sequences. Besides, five states have less than hundred sequences. I also calculated the cumulative number of genomes sequenced by positive cases. Basically, this number tells how many genomes are generated from all the positives cases. None of the states has more tha 1%. As a matter of comparison, the state of Wyoming has a value of 19%. Thta means sequencing one out of every five positive COVID-19 cases.
+Brazil has 26 states and one federal district. Five states have more than one thousand sequences deposited. Seventeen have a number of genomes sequenced between 100 and 999 sequences. Besides, five states have less than hundred sequences. I also calculated the cumulative number of cases sequenced (CCS). Basically, this number tells how many genomes are generated from all the positives cases. None of the states achieve more than 1% in this measurement. As a matter of comparison, the state of Wyoming has a value of 19%. That means sequencing one out of every five positive COVID-19 cases. The states of Amazonas e Rio de Janeiro (bold) show the two highest values, while Piaui (italic) has the lowest one.
+
 |    | STATE               |   Genomes sequenced |   Cumulative nº of cases(08/14/2021) |   Cumulative Cases Sequenced |
 |---:|:--------------------|--------------------:|-------------------------------------:|-----------------------------:|
 |  0 | SAO PAULO           |               10857 |                              4164587 |                    0.260698  |
