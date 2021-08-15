@@ -72,9 +72,14 @@ Brazil has 26 states and one federal district. Five states have more than one th
 | 26 | *PIAUI*               |                  19 |                               313345 |                    0.0060636 |
 
 ### Variants
-Mutations are changes that can happen on the genetic material (DNA or RNA). Sometimes they do not have any impact in the charactericts we can see. Otherwise, they can also be the basis of diseases or the increased ability of SARS-CoV-2 to infect more people. Since any biological process can involve many factors and we are still learning about the cycle this virus perform in our cells, the needed iformation here is that this process of mutation has been ocurring in the pandemic and some variants harbor mutations that have the ability to spread more quickly, for instance. P.1 or Gamma variant originated in Manaus. Only the fact the number of sequences of this variant in the samples increased so rapidaly (Figure 4A) called the attention of scientist and then they could turn their attention to investigate this specifically with other data related to the sequences (one more point for genomic surveillance).
+Mutations are changes that can happen on the genetic material (DNA or RNA). Sometimes they do not have any impact in the charactericts we can see. Otherwise, they can also be the basis of diseases or the increased ability of SARS-CoV-2 to infect more people. Since any biological process can involve many factors and we are still learning about the cycle this virus perform in our cells, the needed iformation here is that this process of mutation has been ocurring in the pandemic and some variants harbor mutations that have the ability to spread more quickly, for instance. P.1 or Gamma variant originated in Manaus. Only the fact the number of sequences of this variant in the samples increased so rapidaly (Figure 4) called the attention of scientist and then they could turn their attention to investigate this specifically with other data related to the sequences (one more point for genomic surveillance).
 
-However these variants can aquire more mutations and turn in more worying versions of SARS-CoV-2. Figure 4B shows the rising of a sublineage called P.1.7. In March, 2021 (months after P.1 surging), P.1.7 - which actually harbor P.1 muations + one new mutation important for transmission - showed a remarkable represatation in samples.
+![Figure 4](p1overtime.png)
+
+However these variants can aquire more mutations and turn in more worying versions of SARS-CoV-2. Figure 5 shows the rising of a sublineage called P.1.7. 
+In March, 2021 (months after P.1 surging), P.1.7 - which actually harbor P.1 mutations + one new mutation important for transmission - showed a remarkable represatation in samples.
+
+![Figure 5](p117overtime.png)
 
 ### Why metadata matters?
 Metadata, as location, host and lineage are crucial for genomic surveillance. Clinical data is other example.
