@@ -18,14 +18,46 @@ Great part of data used in this work was extracted from GISAID (LINK HERE), ples
 ### Top 10 municipalities: an example to follow
 Half of the 10 municipalities that have the greatest number of genomes sequenced (Figure 1) are also among the most populated municipalities in Brazil (Rio de Janeiro, Manaus, São Paulo, Fortaleza and Belo Horizonte). Manaus is the capital of Amazonas state. The city has been hard hit by the pandemic, with a first peak of hospitalizations in late April, 2020 and a strong ressurgance in the beggining of 2021 [3], driven by the variant of concern (VOC) P.1. Genomic sequencing helped to understand how this may happened [4] . Aparecida de Goiânia is the second most populated municipality in the state of Goiás, center west region of Brazil. The city has its own strategy of genomic surveillance (when genomics is used to watch very closely the pathogen, because remember we are sequencing its nucleotides, and this information is used with other epidemiological data to support public health authorites' decisions). See [5] for another example of local initiative.
 
-! [./tracking-the-enemy/municipalities_purple.jpg] (./tracking-the-enemy/municipalities_purple.jpg)
+![Figure 1](municipalities_purple.jpg)
+
+![Figure 2](municipalitiescontribution.jpg)
 
 ### 2020 vs 2021
 Figure 2 presents the percentage of sequenced submitted to GISAID in 2020 and 2021 in relation to the total number of sequences (28,00... as of 13th, August). It is evident that Brazil has submitted more sequences in eight months of the current year than in the first year of the pandemic. One reason to this was the P.1 surgance. Also, scientists stress the mass reciept of laboratory raw materials needed for experiments.
 
+![Figure 3](20vs21.jpg)
+
 ### State level
 Brazil has 26 states and one federal district. Five states have more than one thousand sequences deposited. Seventeen have a number of genomes sequenced between 100 and 999 sequences. Besides, five states have less than hundred sequences. I also calculated the cumulative number of genomes sequenced by positive cases. Basically, this number tells how many genomes are generated from all the positives cases. None of the states has more tha 1%. As a matter of comparison, the state of Wyoming has a value of 19%. Thta means sequencing one out of every five positive COVID-19 cases.
-
+|    | STATE               |   Genomes sequenced |   Cumulative nº of cases(08/14/2021) |   Cumulative Cases Sequenced |
+|---:|:--------------------|--------------------:|-------------------------------------:|-----------------------------:|
+|  0 | SAO PAULO           |               10857 |                              4164587 |                    0.260698  |
+|  1 | **RIO DE JANEIRO**      |                4997 |                              1080746 |                    0.462366  |
+|  2 | **AMAZONAS**            |                1714 |                               421434 |                    0.406707  |
+|  3 | GOIAS               |                1603 |                               777171 |                    0.206261  |
+|  4 | RIO GRANDE DO SUL   |                1530 |                              1390173 |                    0.110058  |
+|  5 | PARANA              |                 964 |                              1408273 |                    0.0684526 |
+|  6 | PERNAMBUCO          |                 831 |                               600002 |                    0.1385    |
+|  7 | BAHIA               |                 751 |                              1208878 |                    0.0621237 |
+|  8 | PARA                |                 749 |                              1133146 |                    0.0660992 |
+|  9 | SANTA CATARINA      |                 629 |                              2019435 |                    0.0311473 |
+| 10 | MINAS GERAIS        |                 561 |                               926017 |                    0.060582  |
+| 11 | CEARA               |                 549 |                               577872 |                    0.0950037 |
+| 12 | ALAGOAS             |                 369 |                               232635 |                    0.158618  |
+| 13 | MARANHAO            |                 339 |                               276821 |                    0.122462  |
+| 14 | SERGIPE             |                 327 |                               343001 |                    0.095335  |
+| 15 | PARAIBA             |                 297 |                               427511 |                    0.0694719 |
+| 16 | ESPIRITO SANTO      |                 257 |                               550920 |                    0.0466492 |
+| 17 | RIO GRANDE DO NORTE |                 247 |                               362246 |                    0.0681857 |
+| 18 | AMAPA               |                 238 |                               122012 |                    0.195063  |
+| 19 | MATO GROSSO DO SUL  |                 142 |                               362732 |                    0.0391474 |
+| 20 | ACRE                |                 134 |                                87487 |                    0.153166  |
+| 21 | TOCANTINS           |                 129 |                               214482 |                    0.0601449 |
+| 22 | MATO GROSSO         |                  93 |                               505031 |                    0.0184147 |
+| 23 | RORAIMA             |                  50 |                               459095 |                    0.010891  |
+| 24 | DISTRITO FEDERAL    |                  42 |                               121908 |                    0.0344522 |
+| 25 | RONDONIA            |                  34 |                               260723 |                    0.0130407 |
+| 26 | *PIAUI*               |                  19 |                               313345 |                    0.0060636 |
 
 ### Variants
 Mutations are changes that can happen on the genetic material (DNA or RNA). Sometimes they do not have any impact in the charactericts we can see. Otherwise, they can also be the basis of diseases or the increased ability of SARS-CoV-2 to infect more people. Since any biological process can involve many factors and we are still learning about the cycle this virus perform in our cells, the needed iformation here is that this process of mutation has been ocurring in the pandemic and some variants harbor mutations that have the ability to spread more quickly, for instance. P.1 or Gamma variant originated in Manaus. Only the fact the number of sequences of this variant in the samples increased so rapidaly (Figure 4A) called the attention of scientist and then they could turn their attention to investigate this specifically with other data related to the sequences (one more point for genomic surveillance).
