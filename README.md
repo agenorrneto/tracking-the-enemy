@@ -1,8 +1,8 @@
 # Tracking the enemy: analyzing the SARS-CoV-2 genomic sequencing scenario in Brazil from GISAID data
 
-Nucleic acids are biomolecules very important for life because they are involved in the process of how and when biological information (e.g. our eyes color) is stored, expressed, and transmitted to the next generations.
-Since the scientific community discovered these molecules (also called **DNA** and **RNA**, which are abbreviations people possibly hear sometime in their life) are so critical for living forms on the Earth, much attention has been turned to them. Even viruses (like SARS-CoV-2, the virus that is causing the pandemic we are living in) has its own nucleic acid. Thus, knowing the sequence (because nucleic acids are composed of nucleotides sequences, A, G, C, T, U, like build blocks) is valuable to know at least in part this enemy. The whole DNA or RNA sequence of an organism is called genome and the field that study it and do a lot of other handling with these big sequences is named **Genomics**.
-Many countries, since the pandemic started, have done strong efforts to sequence the SARS-CoV-2 genome. For instance (and this is indeed an excellent example), the United Kingdom has sequenced more than 600,000 SARS-CoV-2 genomes[1]. Knowing the enemy that is making a government's country impose three lockdowns, causing more than 120,000 deaths and impacting strongly the economy [2] is essential. Brazil has been heavily affected by the pandemic and this in part was due to variants (which can be identified through genomics).
+Nucleic acids are key biomolecules crucial for life because they are involved in the process of how and when biological information (e.g. our eyes color) is stored, expressed, and transmitted to the next generations.
+Since the scientific community discovered these molecules (also called **DNA** and **RNA**, which are abbreviations people possibly hear sometime in their life) are so critical for living forms on the Earth, much attention has been turned to them. Even viruses (like SARS-CoV-2, the virus that is causing the pandemic we are living in) has its own nucleic acid. Thus, knowing the sequence (because nucleic acids are composed of nucleotides sequences, A, G, C, T, U, like build blocks) is valuable to know at least in part this enemy. The whole DNA or RNA sequence of an organism is called genome and the field that studies it and does a lot of other handling with these big sequences is named **Genomics**.
+Many countries, since the pandemic started, have done strong efforts to sequence the SARS-CoV-2 genome. For instance (and this is indeed an excellent example), the United Kingdom has sequenced more than 600,000 SARS-CoV-2 genomes[1]. Knowing the enemy that is making a government's country impose three lockdowns, causing more than 120,000 deaths and  strongly impacting the economy [2] is essential. Brazil has been heavily affected by the pandemic and this in part was due to variants (which can be identified through genomics).
 
 ## Objectives
 That said, I aim to analyse Brazil genomic sequencing of SARS-CoV-2 scenario and hence:
@@ -34,7 +34,7 @@ Figure 2 shows the contribution of these municipalities to the whole set of sequ
 
 
 ### 2020 vs 2021
-Figure 3 presents the percentage of sequences submitted to GISAID in 2020 and 2021 in relation to the total number of sequences (28,00... as of 13th, August). It is evident that Brazil has submitted more sequences in eight months of the current year than in the first year of the pandemic. One reason to this was the P.1 surgance. Besides, scientists stress the mass receipt of laboratory raw materials needed for experiments [6].
+Figure 3 presents the percentage of sequences submitted to GISAID in 2020 and 2021 in relation to the total number of sequences (28,698 in 08/13/2020). It is evident that Brazil has submitted more sequences in eight months of the current year than in the first year of the pandemic. One reason to this was the P.1 surgance. Besides, scientists stress the mass receipt of laboratory raw materials needed for experiments [6].
 
 **Figure 3**
 
