@@ -83,7 +83,7 @@ A choropleth map is shown below (Figure 4) with the same information presented i
 
 **Figure 4**
 
-![Figure 4](figures/map_of.png)
+![Figure 4](figures/map_of_en.png)
 
 
 ### Variants
