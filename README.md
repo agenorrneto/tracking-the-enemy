@@ -20,7 +20,8 @@ Half of the 10 municipalities that have the greatest number of genomes sequenced
 
 
 **Figure 1**
-![Figure 1](municipalities_purple_of.jpg)
+
+![Figure 1](figures/municipalities_purple_of.jpg)
 
 
 
@@ -29,18 +30,21 @@ Figure 2 shows the contribution of these municipalities to the whole set of sequ
 
 **Figure 2**
 
-![Figure 2](municipalitiescontribution.jpg)
+![Figure 2](figures/municipalitiescontribution.jpg)
 
 
 ### 2020 vs 2021
 Figure 3 presents the percentage of sequences submitted to GISAID in 2020 and 2021 in relation to the total number of sequences (28,00... as of 13th, August). It is evident that Brazil has submitted more sequences in eight months of the current year than in the first year of the pandemic. One reason to this was the P.1 surgance. Besides, scientists stress the mass receipt of laboratory raw materials needed for experiments [6].
 
 **Figure 3**
-![Figure 3](20vs21.jpg)
+
+![Figure 3](figures/20vs21.jpg)
 
 
 ### State level
-Brazil has 26 states and one federal district. Five states have more than one thousand sequences deposited. Seventeen have a number of genomes sequenced between 100 and 999 sequences. Besides, five states have less than a hundred sequences. I also calculated the cumulative number of cases sequenced (CCS). Basically, this number tells how many genomes are generated from all the positive cases. None of the states achieve more than 1% in this measurement. As a matter of comparison, the state of Wyoming, USA has a value of 19.70%. That means sequencing one out of every five positive COVID-19 cases [7]. The states of Amazonas e Rio de Janeiro (bold) show the two highest values, while PiauÍ (italic) has the lowest one.
+Brazil has 26 states and one federal district. Five states have more than one thousand sequences deposited. Seventeen have a number of genomes sequenced between 100 and 999 sequences. Besides, five states have less than a hundred sequences. I also calculated the cumulative number of cases sequenced (CCS) (Table 1). Basically, this number tells how many genomes are generated from all the positive cases. None of the states achieve more than 1% in this measurement. As a matter of comparison, the state of Wyoming, USA has a value of 19.70%. That means sequencing one out of every five positive COVID-19 cases [7]. The states of Amazonas e Rio de Janeiro (bold) show the two highest values, while PiauÍ (italic) has the lowest one.
+
+**Table 1**
 
 |    | STATE               |   Genomes sequenced |   Cumulative nº of cases(08/14/2021) |   Cumulative Cases Sequenced (%) |
 |---:|:--------------------|--------------------:|-------------------------------------:|-----------------------------:|
@@ -73,23 +77,32 @@ Brazil has 26 states and one federal district. Five states have more than one th
 | 26 | *PIAUI*               |                  19 |                               313345 |                    0.0060636 |
 
 
+
 A choropleth map is shown below (Figure 4) with the same information presented in the two first columns of the previous table.
 
 
 **Figure 4**
 
-![Figure 4](map_of.png)
+![Figure 4](figures/map_of.png)
 
 
 ### Variants
 Mutations are changes that can happen on the genetic material (DNA or RNA). Sometimes they do not have any impact on the characteristics we can see. Otherwise, they can also be the basis of diseases or the increased ability of SARS-CoV-2 to infect more people. Since any biological process can involve many factors and we are still learning about the cycle this virus performs in our cells, the needed information here is that this process of mutation has been occurring in the pandemic and some variants harbor mutations that have the ability to spread more quickly, for instance. The P.1 or Gamma variant originated in Manaus. Only the fact the number of sequences of this variant in the samples increased so rapidly (Figure 5) called the attention of scientist and then they could turn their attention to investigate this specifically with other data related to the sequences (one more point for genomic surveillance).
 
-![Figure 5](p1overtime.jpg)
+
+**Figure 5**
+
+![Figure 5](figures/p1overtime.jpg)
 
 However these variants can acquire more mutations and turn into more worrying versions of SARS-CoV-2 [8]. Figure 6 shows the rising of a sublineage called P.1.7. 
 In March, 2021 (months after P.1 surging), P.1.7 - which actually harbors P.1 mutations + one new mutation important for transmission - showed a remarkable represatation in samples.
 
-![Figure 6](p17overtime.png)
+
+**Figure 6**
+
+![Figure 6](figures/p17overtime.png)
+
+
 
 ### Why metadata matters?
 Metadata, as location, host and lineage are crucial for genomic surveillance. Clinical data is other example.
@@ -102,15 +115,15 @@ Despite the low number of sequences submitted to GISAID in 2020, Brazil is incre
 
 [1] UK exceeds 600,000 COVID-19 tests genomically sequenced - https://www.gov.uk/government/news/uk-exceeds-600000-covid-19-tests-genomically-sequenced
 
-[2] https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_Kingdom
+[2] COVID-19 pandemic in the United Kingdom - https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_Kingdom
 
-[3] https://www.thelancet.com/article/S0140-6736(21)00183-5/fulltext
+[3] Resurgence of COVID-19 in Manaus, Brazil, despite high seroprevalence - https://www.thelancet.com/article/S0140-6736(21)00183-5/fulltext
 
-[4] https://www.nature.com/articles/s41591-021-01378-7
+[4] COVID-19 in Amazonas, Brazil, was driven by the persistence of endemic lineages and P.1 emergence - https://www.nature.com/articles/s41591-021-01378-7
 
-[5] https://www.ufpe.br/agencia/noticias/-/asset_publisher/dlhi8nsrz4hK/content/primeiro-relatorio-da-ufpe-sobre-sequenciamento-do-sars-cov-2-em-caruaru-constata-predominancia-da-variante-p-1/40615
+[5] Primeiro relatório da UFPE sobre sequenciamento do SARS-CoV-2 em Caruaru constata predominância da variante P.1 -https://www.ufpe.br/agencia/noticias/-/asset_publisher/dlhi8nsrz4hK/content/primeiro-relatorio-da-ufpe-sobre-sequenciamento-do-sars-cov-2-em-caruaru-constata-predominancia-da-variante-p-1/40615
 
-[6] https://www.uol.com.br/vivabem/noticias/redacao/2021/06/06/e-preciso-estudar-mais-o-genoma-do-sars-cov-2-para-entender-suas-mutacoes.htm
+[6] É preciso estudar mais o genoma do Sars-CoV-2 para entender suas mutações - https://www.uol.com.br/vivabem/noticias/redacao/2021/06/06/e-preciso-estudar-mais-o-genoma-do-sars-cov-2-para-entender-suas-mutacoes.htm
 
 [7] Wyoming Leading The Nation In Sequencing COVID-19 Virus Variants - https://www.wyomingpublicmedia.org/health/2021-08-06/wyoming-leading-the-nation-in-sequencing-covid-19-virus-variants
 
