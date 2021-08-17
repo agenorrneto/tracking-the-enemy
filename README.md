@@ -111,6 +111,11 @@ For instance, from all the brazillian sequences eleven are from dogs and 3 from 
 ## Conclusion
 Despite the low number of sequences submitted to GISAID in 2020, Brazil is increasing its efforts to improve this scenario: recently, Fiocruz (Fundação Oswaldo Cruz) committed to deliver 36000 sequences in one year [9]. It is important to fix **disproportionately between states**, **invest and train personnel for data analysis and interpretation**, and **make the use of genomic data common in public health policies design**.
 
+## Acnknowledgment
+I deeply thank GISAID and all the scientists who contributed to generate the data I used here. 
+
+*"If I have seen further than others, it is by standing upon the shoulders of giants"* - Isaac Newton
+
 ## References
 
 [1] UK exceeds 600,000 COVID-19 tests genomically sequenced - https://www.gov.uk/government/news/uk-exceeds-600000-covid-19-tests-genomically-sequenced
